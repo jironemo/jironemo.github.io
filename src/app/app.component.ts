@@ -24,7 +24,7 @@ export class AppComponent {
  ngOnInit(){
   const headers = new HttpHeaders({'Content-Type': 'application/json','apiKey': 'NJDSNSIOlsoihRBfsZNBHHgdJWIJsO2wtYzXEEDeo6j1JZS3B452CbzOXFXpozdh'});
 
-  var url:string = ("/action/find");
+  var url:string = ("https://data.mongodb-api.com/app/data-dxrnu/endpoint/data/v1/find");
     this.http.post(url, JSON.stringify(this.data), {headers})
       .subscribe((document:any) => {
         for (var i = 0; i < document.documents.length; i++) {
