@@ -1,7 +1,0 @@
-{
-  "/action": {
-    "target": "https://data.mongodb-api.com/app/data-dxrnu/endpoint/data/v1",
-    "secure": false,
-    "changeOrigin": true
-  }
-}
