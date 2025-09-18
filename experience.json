@@ -1,0 +1,66 @@
+[
+    {
+        "id": "exp1",
+        "title": "Java Developer",
+        "company": "AdventSoft Co. Ltd, Myanmar",
+        "date": "April 2024 - Present",
+        "details": [
+            "Assisting in the development of web applications using Java and Spring Boot.",
+            "Participating in code reviews and contributing to team knowledge sharing."
+        ]
+    },
+  {
+    "id": "exp2",
+    "title": "Remote Web Developer",
+    "company": "Westpoint Bus Private Limited, Singapore",
+    "date": "April 2024 - June 2024",
+    "details": [
+      "Developed RESTful APIs in Golang for a bus-for-rent marketplace business model.",
+      "Developed Responsive Front-end Web Applications in ReactJS, using Redux, React Queries.",
+      "Collaborated with cross-functional teams to transform documented requirements into application features.",
+      "Gained experience collaborating remotely with a diverse team of developers on developing unique features for the application."
+    ]
+  },
+  {
+    "id": "exp3",
+    "title": "Java Developer",
+    "company": "Secure Link Company Limited, Myanmar",
+    "date": "April 2023 – May 2024",
+    "details": [
+      "Developed Java Spring APIs and fully functional applications using Java Spring & Spring Boot.",
+      "Spearheaded development for a team of four developers as a Senior developer.",
+      "Mentored junior and intern developers on both hard and soft skills."
+    ]
+  },
+  {
+    "id": "exp4",
+    "title": "Software Development Intern",
+    "company": "DIR-ACE Technology, Myanmar",
+    "date": "November 2022 - March 2023",
+    "details": [
+      "Developed and maintained new components of a Java Dynamic Web Application system using Java Server Pages, MySQL and Hibernate.",
+      "Collaborated with cross-functional teams through AGILE methodologies to solve technical problems.",
+      "Reduced the waiting time of data export into xlsx file functionality by 50%."
+    ]
+  },
+  {
+    "id": "exp5",
+    "title": "Back-end Web Development Intern",
+    "company": "DRVR, Thailand",
+    "date": "May 2022 - August 2022",
+    "details": [
+      "Developed Go APIs that use telematics to help with Fleet Management Systems.",
+      "Prepared documentation and user guides for the company's services."
+    ]
+  },
+  {
+    "id": "exp6",
+    "title": "Freelance Software Developer",
+    "company": "Freelance",
+    "date": "2016-2022",
+    "details": [
+      "Developed three software solutions for different clients by identifying their software needs with regular integration and unit testing.",
+      "Gathered customer requirements, named key functionalities, and developed a software solution."
+    ]
+  }
+]

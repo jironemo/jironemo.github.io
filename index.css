@@ -1,3 +1,44 @@
+/* ===== Featured Project Card ===== */
+.featured-project {
+    border: 2.5px solid #ffd54f !important;
+    box-shadow: 0 4px 32px #ffd54f33, 0 2px 8px #000a;
+    background: linear-gradient(120deg, #232526 80%, #fffde4 100%) !important;
+}
+.featured-icon {
+    color: #ffd54f;
+    font-size: 1.25em;
+    vertical-align: middle;
+    filter: drop-shadow(0 1px 2px #0008);
+}
+.card {
+    transition: transform 0.18s cubic-bezier(.4,2,.6,1), box-shadow 0.18s;
+}
+.card:hover, .card:focus-within {
+    transform: scale(1.045);
+    box-shadow: 0 8px 32px #00bcd455, 0 2px 8px #000a;
+    z-index: 2;
+}
+/* ===== Experience Cards ===== */
+.experience-card {
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.97rem;
+    background: #263238 !important;
+    border-left: 4px solid #00bcd4;
+}
+.experience-card .card-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #00bcd4;
+}
+.exp-date {
+    font-size: 0.95em;
+    font-weight: 500;
+    color: #b3e5fc !important;
+    margin-left: 0.5rem;
+    white-space: nowrap;
+}
 /* ===== Custom Labels ===== */
 span.coursework-label {
     color: #1b1500;
