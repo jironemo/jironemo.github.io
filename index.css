@@ -1,0 +1,82 @@
+/* ===== Custom Labels ===== */
+span.coursework-label {
+    color: #1b1500;
+    font-weight:1600;
+}
+/* ===== Base Styles ===== */
+body {
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(135deg, #232526 0%, #414345 100%);
+    background-attachment: fixed;
+    color: #eaeaea;
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+}
+
+/* ===== Headings ===== */
+h1 {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 1px;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 8px #000a;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #b3e5fc;
+    margin-bottom: 1.2rem;
+    letter-spacing: 0.5px;
+}
+
+/* ===== Cards ===== */
+.intro-card {
+    background: #23272b;
+    border-left: 5px solid #00bcd4;
+    color: #e0f7fa;
+    font-size: 1.15rem;
+    font-weight: 500;
+}
+
+.education-card {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.4rem 1.2rem;
+    font-size: 1rem;
+    background: #263238 !important;
+    border-left: 4px solid #80cbc4;
+}
+.education-card .card-title {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #80cbc4;
+}
+.education-card .card-text strong {
+    color: #b3e5fc;
+}
+
+.project-card {
+    background: #212121 !important;
+    border-left: 4px solid #00bcd4;
+}
+.project-card .card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #00bcd4;
+}
+.project-card .card-text {
+    color: #e0e0e0;
+}
+
+/* ===== Buttons ===== */
+.btn-outline-light {
+    border-color: #00bcd4;
+    color: #00bcd4;
+}
+.btn-outline-light:hover {
+    background: #00bcd4;
+    color: #232526;
+}
