@@ -1,4 +1,8 @@
 /* ===== Featured Project Card ===== */
+
+body{
+    font-family:'Fira Code',monospace;
+}
 .featured-project {
     border: 2.5px solid #ffd54f !important;
     box-shadow: 0 4px 32px #ffd54f33, 0 2px 8px #000a;
